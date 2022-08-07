@@ -1,4 +1,4 @@
-bucket_name = "mohd-class-bucket"
+bucket_name = "mohd2-class-bucket"
 ami = "ami-07a58b871ae641c1a"
 itype = "t2.micro"
 username1 = "superdanish"
